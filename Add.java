@@ -4,8 +4,9 @@ public class Add {
 
         int a = 5;
         int b = 10;
-        int sum = a + b;
+        int c = 15;
+        int sum = a+b+c;
 
-        System.out.println("Sum of " + a + " and " + b + " is: " + sum);
+        System.out.println("Sum of " + a + " and " + b + " c is: " + sum);
     }
 }
